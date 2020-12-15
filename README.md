@@ -4,7 +4,7 @@
 
 PyTorch Implementation of SUGPool
 
-# Requirements
+## Requirements
 
 - torch
 - torch_geometric
@@ -15,8 +15,8 @@ All required libraries are listed in [requirements.txt]() and can be installed w
 pip install -r requirements.txt
 ```
 
-# Cite
+## Cite
 
-# Licence
+## Licence
 
 The code is released under the [MIT License](https://github.com/SourceCode1037/SUGPool/blob/main/LICENSE). 
