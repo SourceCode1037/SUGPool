@@ -9,7 +9,7 @@ PyTorch Implementation of SUGPool
 - torch
 - torch_geometric
 
-All required libraries are listed in [requirements.txt]() and can be installed with
+All required libraries are listed in [requirements.txt](https://github.com/SourceCode1037/SUGPool/blob/main/requirements.txt) and can be installed with
 
 ```python 
 pip install -r requirements.txt
