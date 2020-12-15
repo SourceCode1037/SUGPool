@@ -29,7 +29,7 @@ A collection of benchmark datasets for graph classification and regression is pu
 dataset = TUDataset(os.path.join('data', args.dataset), name=args.dataset)
 ```
 ### Run
-  To run SUGPool, execute the following command to traini and score on the default dataset:
+  To run SUGPool, execute the following command to train and score on the default dataset:
 ```python 
 python main.py
 ```
