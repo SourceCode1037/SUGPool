@@ -23,13 +23,13 @@ pip install -r requirements.txt
 ```
 ### Datasets
 
-A collection of benchmark datasets for graph classification and regression is publicly available at [here](https://chrsmrrs.github.io/datasets/). You can change the dataset by modifing the ```args.dataset``` in the following code statement:
+A collection of benchmark datasets for graph classification and regression is publicly available at [here](https://chrsmrrs.github.io/datasets/). You can change the dataset by modifing the ```args.dataset``` in the following code statement, the program will automatically create a folder called ```data``` to store the datasets.
 
 ```python 
 dataset = TUDataset(os.path.join('data', args.dataset), name=args.dataset)
 ```
 ### Run
-  To run SUGPool, execute the following command to train and score on the default dataset:
+  To run SUGPool, execute the following command to train and score on the default dataset.
 ```python 
 python main.py
 ```
