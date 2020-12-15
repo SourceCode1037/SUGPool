@@ -38,4 +38,4 @@ python main.py
 
 ## Licence
 
-The code is released under the [MIT License](https://github.com/SourceCode1037/SUGPool/blob/main/LICENSE). 
+The code is released under the [Apache-2.0 License](https://github.com/SourceCode1037/SUGPool/blob/main/LICENSE). 
