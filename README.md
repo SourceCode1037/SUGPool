@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 ### Datasets
 
-A collection of benchmark datasets for graph classification and regression is publicly available at [here](https://chrsmrrs.github.io/datasets/). You can change the dataset by modifing the ```args.dataset``` in the following code statement, the program will automatically create a folder called ```data``` to store the datasets.
+A collection of benchmark datasets for graph classification and regression is publicly available at [here](https://chrsmrrs.github.io/datasets/). You can change the dataset by modifing the ```args.dataset``` in the following code statement, and the program will automatically create a folder called ```data``` to store the datasets.
 
 ```python 
 dataset = TUDataset(os.path.join('data', args.dataset), name=args.dataset)
